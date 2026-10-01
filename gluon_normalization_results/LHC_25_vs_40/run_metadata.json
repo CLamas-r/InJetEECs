@@ -1,0 +1,42 @@
+{
+  "source_notebook": "/Users/carloslamasrodriguez/Desktop/UCLA_Project/InJetEECs/in_jet_eec_gluon_normalization.ipynb",
+  "numerics": {
+    "power": 18,
+    "repeats": 8,
+    "n_R": 48,
+    "seed": 260922,
+    "fft_n": 16384
+  },
+  "cases": {
+    "25.0": {
+      "sqrt_s": 5020.0,
+      "y_J": 3.0,
+      "p_T": 25.0,
+      "m_Q": 1.3,
+      "R_J": 0.6,
+      "A": 208.0,
+      "c_nuclear": 0.75,
+      "Qs0_sq": 1.0,
+      "x0": 0.000304,
+      "lambda_s": 0.29,
+      "Lambda_MV": 0.2,
+      "z_min": 0.0
+    },
+    "40.0": {
+      "sqrt_s": 5020.0,
+      "y_J": 3.0,
+      "p_T": 40.0,
+      "m_Q": 1.3,
+      "R_J": 0.6,
+      "A": 208.0,
+      "c_nuclear": 0.75,
+      "Qs0_sq": 1.0,
+      "x0": 0.000304,
+      "lambda_s": 0.29,
+      "Lambda_MV": 0.2,
+      "z_min": 0.0
+    }
+  },
+  "observable": "Gluon-channel EEC nuclear ratio, large-Nc adjoint S_F squared",
+  "plotted_uncertainty": "one numerical standard error across independent scrambles"
+}

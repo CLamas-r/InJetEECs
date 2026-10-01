@@ -1,0 +1,4 @@
+model,check,max_abs_RpA_change
+GBW,double Sobol points,4.672100524594214e-05
+MV,double Sobol points,0.0001112064859152273
+MV,proposal widths x 1.5,0.0002559343103087919
