@@ -1,0 +1,5 @@
+model,check,max_abs_RpA_change,tolerance
+GBW,double Sobol points,1.671702245187312e-05,0.0015
+MV,double Sobol points,4.5556554963521734e-05,0.0015
+MV,double radial nodes,3.3306690738754696e-16,2e-05
+MV,importance width x 1.5,6.991751588603101e-05,0.0015
